@@ -24,13 +24,13 @@ python cli.py ATCG -D # Double strand
 ### Installation
 
 ```bash
-pip install "git+ssh://git@github.com/Benoitdw/vIPer.git"
+pip install "git+ssh://git@github.com/3BioCompBio/vIPer.git"
 ```
 
 OR
 
 ```bash
-pip install "git+https://git@github.com/Benoitdw/vIPer.git"
+pip install "git+https://git@github.com/3BioCompBio/vIPer.git"
 ```
 
 ### Usage
